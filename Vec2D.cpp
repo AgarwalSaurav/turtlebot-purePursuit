@@ -14,3 +14,4 @@ Vec2D operator* (const double sc, const Vec2D v){
 }
 Vec2D operator* (const Vec2D v, const double sc){
   return sc*v;
+}
